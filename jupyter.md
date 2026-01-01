@@ -9,7 +9,7 @@ Here are links to the installation instructions for different
 operating systems:
 
 - [Click here for Windows](https://docs.anaconda.com/anaconda/install/windows/)
-- [Click here for MacOS](https://docs.anaconda.com/anaconda/install/mac-os/#using-the-command-line-install) - make sure to use the *command line installer*
+- [Click here for MacOS](https://docs.anaconda.com/anaconda/install/mac-os/)
 - [Click here for Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
 The Anaconda package includes Jupyter Notebook.

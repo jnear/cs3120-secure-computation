@@ -1,9 +1,9 @@
 ---
-title: CS 3990/5990 Secure Distributed Computation
+title: CS 3120/5120 Secure Distributed Computation
 layout: default
 ---
 
-# UVM CS 3990/5990: Secure Distributed Computation (Fall 2023)
+# UVM CS 3120/5120: Secure Distributed Computation (Spring 2026)
 
   * [Course Description](#course-description)
   * [Administrative](#administrative)
@@ -57,35 +57,33 @@ By the end of this course, you will be able to:
 
 ## Administrative
 
-- **Lecture**: Monday, Wednesday, Friday, 10:50am-11:40am in Perkins 003
+- **Lecture**: Monday, Wednesday, Friday, 10:50am-11:40am in Kalkin 004
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Graduate Teaching Assistant**: Prianka Bhattacharjee
 - **Office hours**: 
   - **Joe Near** (instructor): Mondays and Fridays, 9:30am-10:30am, and by appointment; Innovation Hall E458 (or MS Teams)
 
 ## Resources
 
 - **Course textbooks** are available online (see below)
-- **Brightspace** for the course:
-  - [CS 3990A (undergrad section)](https://brightspace.uvm.edu/d2l/home/31605)
-  - [CS 5990E (graduate section)](https://brightspace.uvm.edu/d2l/home/31607)
-- **Course Github Repo** [is available here](https://github.com/jnear/cs3990-secure-computation)
+- **Course Github Repo** [is available here](https://github.com/jnear/cs3120-secure-computation)
 - **Weekly exercises**
-  - [Download exercises here](https://github.com/jnear/cs3990-secure-computation/tree/master/exercises)
+  - [Download exercises here](https://github.com/jnear/cs3120-secure-computation/tree/master/exercises)
   - Turn in notebook files on Brightspace
 - **Homework assignments** 
-  - [Download notebooks here](https://github.com/jnear/cs3990-secure-computation/tree/master/homework)
+  - [Download notebooks here](https://github.com/jnear/cs3120-secure-computation/tree/master/homework)
   - Turn in notebook files on Brightspace
-- **Discussions** will take place on MS Teams
 - **Review Sheets** for exams:
-  - [Exam 1](https://github.com/jnear/cs3990-secure-computation/tree/master/resources/review-exam1.md)
-  - [Exam 2](https://github.com/jnear/cs3990-secure-computation/tree/master/resources/review-exam2.md)
+  - [Exam 1](https://github.com/jnear/cs3120-secure-computation/tree/master/resources/review-exam1.md)
+  - [Exam 2](https://github.com/jnear/cs3120-secure-computation/tree/master/resources/review-exam2.md)
 
 ## Textbook & Other References
 
 Please **do not** buy any books for this course. All required reference material is available online for free.
 
 We will use the following textbooks for this course:
+
+- [Programming MPC](https://jnear.github.io/programming-mpc)  
+  Joseph P. Near
 
 - [Pragmatic MPC](https://securecomputation.org/)  
   David Evans, Vladimir Kolesnikov and Mike Rosulek
@@ -204,7 +202,7 @@ Brightspace under "homework solutions." Grades will be posted on
 Brightspace. To see your graded assignment, visit the following link:
 
 ```
-https://jnear.w3.uvm.edu/cs3990_feedback/<your-netid-here>
+https://jnear.w3.uvm.edu/cs3120_feedback/<your-netid-here>
 ```
 
 Replace `<your-netid-here>` with your actual netid. You will need to
@@ -239,35 +237,15 @@ All academic integrity misconduct will be treated according to [UVM's Code of Ac
 The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course.
 
-Click [here](https://jnear.github.io/cs3990-secure-computation/projects) for more complete information.
-
-## CS Student Research Day & Extra Credit
-
-We will **not hold class** on **Friday, September 15**. I encourage you
-to attend [CS Student Research
-Day](https://go.uvm.edu/6v091) and learn about
-the awesome research being done by CS students at UVM!
-
-- If you attend **one full session** of talks (or 4 talks total), **take
-  brief notes on the talks you hear**, and **send the notes to me via
-  email by 11:59pm on September 16**, I will give **1% extra credit to
-  your final grade in the course**
+Click [here](https://jnear.github.io/cs3120-secure-computation/projects) for more complete information.
 
 ## Schedule
 
 Note that class will **not** be held on the following dates:
 
-- Monday, September 4 (Labor Day)
-- Friday, September 15 (please attend [CS Student Research Day](TBD)
-- Friday, October 13 (Fall Recess)
-- November 20-24 (Thanksgiving)
-
-Note that class will be **asynchronous** on the following dates:
-
-- Wednesday, September 27
-- Friday, September 29
-- Friday, October 27
-- Monday, October 30
+- Monday, January 19 (MLK Jr. Day)
+- Monday, February 16 (Presidents Day)
+- March 9-13 (Spring Break)
 
 Important due dates:
 
@@ -276,45 +254,47 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 11, during class (Perkins 003)
-- Final exam: December 12, 1:30pm - 2:30pm (Perkins 003)
+- Midterm exam: Friday, March 6, during class (Kalkin 004)
+- Final exam: Monday, May 4, 10:30-11:30am (Kalkin 004)
 
 Homework dates:
 
 |                                                                                                    Item | Due Date |
 |--------------------------------------------------------------------------------------------------------:|----------|
-| [Homework 1](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_1.ipynb)   | 9/11/23  |
-| [Homework 2](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_2.ipynb)   | 9/18/23  |
-| [Homework 3](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_3.ipynb)   | 9/25/23  |
-| [Homework 4](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_4.ipynb)   | 10/2/23  |
-| [Homework 5](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_5.ipynb)   | 10/16/23 |
-| [Homework 6](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_6.ipynb)   | 10/23/23 |
-| [Homework 7](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_7.ipynb)   | 11/1/23  |
-| [Homework 8](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_8.ipynb)   | 11/6/23  |
-| [Homework 9](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_9.ipynb)   | 11/13/23 |
-| [Homework 10](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_10.ipynb) | 12/4/23  |
-|                                                                                     Project proposals   | 11/17/23 |
-|                                                            Final project writeup/video/implementation   | 12/11/23 |
+|   [Homework 1](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_1.ipynb) | 1/26/26  |
+|   [Homework 2](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_2.ipynb) | 2/2/26   |
+|   [Homework 3](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_3.ipynb) | 2/9/26   |
+|   [Homework 4](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_4.ipynb) | 2/16/26  |
+|   [Homework 5](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_5.ipynb) | 2/23/26  |
+|   [Homework 6](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_6.ipynb) | 3/23/26  |
+|   [Homework 7](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_7.ipynb) | 3/30/26  |
+|   [Homework 8](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_8.ipynb) | 4/6/26   |
+|   [Homework 9](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_9.ipynb) | 4/13/26  |
+| [Homework 10](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_10.ipynb) | 4/20/26  |
+|                                                                                       Project proposals | 4/18/26  |
+|                                                              Final project writeup/video/implementation | 5/4/26   |
 
 Schedule of topics:
 
-| Week of... | Topics                                                                               | Reference  |
-| ---------: | ------------------------------------------------------------------------------------ | ---------  |
-| 8/28/23    | Intro to secure computation, additive secret sharing (no exercise)                   | PMPC Ch. 1 |
-| 9/4/23     | Adversaries and threat models (no class Monday)                                      | PMPC Ch. 2 |
-| 9/11/23    | Shamir secret sharing (no class Friday)                                              | PMPC Ch. 3 |
-| 9/18/23    | MPC for arithmetic circuits                                                          | PMPC Ch. 3 |
-| 9/25/23    | Circuit representations; MPC protocols for circuits                                  | PMPC Ch. 3 |
-| 10/2/23    | GMW protocol; garbled circuits protocol; malicious MPC                               | PMPC Ch. 6 |
-| 10/9/23    | *Intermission*. Review (exam Wednesday; no class Friday; no exercise)                | None       |
-| 10/16/23   | Partially homomorphic cryptosystems: Paillier and El Gamal                           | TBA        |
-| 10/23/23   | Fully homomorphic encryption                                                         | TBA        |
-| 10/30/23   | Zero-knowledge proof                                                                 | PMPC Ch. 6 |
-| 11/6/23    | Distributed ledgers and blockchains                                                  | BCT Ch. 1  |
-| 11/13/23   | Bitcoin & its challenges                                                             | BCT Ch. 2  |
-| 11/20/23   | No class (Thanksgiving)                                                              | BCT        |
-| 11/27/23   | Blockchain applications: smart contracts, filesystems, etc                           | BCT Ch. 10 |
-| 12/4/23    | Open challenges; review                                                              |            |
+| Week of... | Topics                                                                  | Reference                |
+|-----------:|-------------------------------------------------------------------------|--------------------------|
+|    1/12/26 | Intro to distributed computation, additive secret sharing (no exercise) | PMP Ch. 1, 2; PMPC Ch. 1 |
+|    1/19/26 | Adversaries, threat models, and security proofs (no class Monday)       | PMP Ch. 3; PMPC Ch. 2    |
+|    1/26/26 | Multiplication triples and arithmetic MPC                               | PMP Ch. 4; PMPC Ch. 3    |
+|     2/2/26 | Numeric representations; Oblivious Transfer                             | PMP Ch. 5, 6; PMPC Ch. 3 |
+|     2/9/26 | Generating multiplication triples; GMW protocol                         | PMP Ch. 6, 7; PMPC Ch. 3 |
+|    2/16/26 | Garbled circuits protocol (no class Monday)                             | PMP Ch. 8; PMPC Ch. 3    |
+|    2/23/26 | Shamir secret sharing; BGW protocol                                     | PMP Ch. 9; PMPC Ch. 3    |
+|     3/2/26 | *Intermission*. Review (exam Friday; no exercise)                       | None                     |
+|     3/9/26 | Spring break (no class)                                                 | None                     |
+|    3/16/26 | Partially homomorphic cryptosystems: Paillier and El Gamal              | TBA                      |
+|    3/23/26 | Fully homomorphic encryption                                            | TBA                      |
+|    3/30/26 | Zero-knowledge proof                                                    | PMPC Ch. 6               |
+|     4/6/26 | Distributed ledgers and blockchains                                     | BCT Ch. 1                |
+|    4/13/26 | Bitcoin & its challenges                                                | BCT Ch. 2                |
+|    4/20/26 | Blockchain applications: smart contracts, filesystems, etc              | BCT                      |
+|    4/27/26 | Open challenges; review                                                 |                          |
+
 
 # Accommodations
 

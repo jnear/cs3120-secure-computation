@@ -1,10 +1,10 @@
-# Final Project Information (Fall 2023)
+# Final Project Information (Spring 2026)
 
 ## Schedule & Requirements
 
 ### Requirements
 
-The goal of the final project is for you to build a complete system that accomplishes a realistic task while ensuring differential privacy. Final projects will be completed in groups of 1-3. The deliverables for the project will be as follows:
+The goal of the final project is for you to build a complete system that accomplishes a realistic task using applied cryptography. Final projects will be completed in groups of 1-3. The deliverables for the project will be as follows:
 
 - A *project proposal* of 1 paragraph, describing:
   - Who is in your group
@@ -25,12 +25,12 @@ The goal of the final project is for you to build a complete system that accompl
 
 The final project is worth 10% of your final grade. The schedule for final project deliverables, and the contribution of each one to the grade you receive for the final project, are as follows:
 
-| Deliverable                | Due Date                      | Grade Percent | Turn In     |
-| ---------------------:     | ----------------------------- | ------------- | ----------  |
-| Project Proposal           | 11/17/23 by 11:59pm           | 10%           | Brightspace |
-| Project Presentation Video | 12/11/23 by 11:59pm           | 30%           | Brightspace |
-| Implementation             | 12/11/23 at 11:59pm           | 40%           | Brightspace |
-| Project Writeup            | 12/11/23 at 11:59pm           | 20%           | Brightspace |
+|                Deliverable | Due Date           | Grade Percent | Turn In     |
+|---------------------------:|--------------------|---------------|-------------|
+|           Project Proposal | 4/18/26 by 11:59pm | 10%           | Brightspace |
+| Project Presentation Video | 5/4/26 by 11:59pm  | 30%           | Brightspace |
+|             Implementation | 5/4/26 at 11:59pm  | 40%           | Brightspace |
+|            Project Writeup | 5/4/26 at 11:59pm  | 20%           | Brightspace |
 
 
 ### Graduate Students
@@ -47,7 +47,7 @@ You're welcome to work on any project interesting to you, as long as it's relate
 - Bootstrapping circuit for FHE (very challenging)
 - Implementation of non-interactive ZK protocol for graph coloring
 - Circuits to check validity of electronic votes (see the voting protocol from our homework)
-- Implementation of one of the case studies from Homework 6
+- Implementation of one of the case studies from our homework
 - Cryptocurrency implementation (validation of blockchain; validation of transactions; coin-based transactions)
 - Simulation of distributed cryptocurrency system (broadcasting transactions; mining; broadcasting new blocks)
 
