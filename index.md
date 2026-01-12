@@ -88,6 +88,9 @@ We will use the following textbooks for this course:
 - [Pragmatic MPC](https://securecomputation.org/)  
   David Evans, Vladimir Kolesnikov and Mike Rosulek
 
+- [The Joy of Cryptography](https://joyofcryptography.com/pdf/book.pdf)  
+  Mike Rosulek
+
 - [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/) ([PDF available here](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf))  
    Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder 
 
