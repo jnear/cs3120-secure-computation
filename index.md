@@ -252,7 +252,7 @@ Note that class will **not** be held on the following dates:
 
 Important due dates:
 
-- Homework assignments are due every *Monday* at 11:59pm.
+- Homework assignments are due every *Tuesday* at 11:59pm.
 - In-class weekly exercises are due every *Friday*, by 11:59pm.
 
 Exam dates:
@@ -264,16 +264,16 @@ Homework dates:
 
 |                                                                                                    Item | Due Date |
 |--------------------------------------------------------------------------------------------------------:|----------|
-|   [Homework 1](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_1.ipynb) | 1/26/26  |
-|   [Homework 2](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_2.ipynb) | 2/2/26   |
-|   [Homework 3](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_3.ipynb) | 2/9/26   |
-|   [Homework 4](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_4.ipynb) | 2/16/26  |
-|   [Homework 5](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_5.ipynb) | 2/23/26  |
-|   [Homework 6](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_6.ipynb) | 3/23/26  |
-|   [Homework 7](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_7.ipynb) | 3/30/26  |
-|   [Homework 8](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_8.ipynb) | 4/6/26   |
-|   [Homework 9](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_9.ipynb) | 4/13/26  |
-| [Homework 10](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_10.ipynb) | 4/20/26  |
+|   [Homework 1](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_1.ipynb) | 1/27/26  |
+|   [Homework 2](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_2.ipynb) | 2/3/26   |
+|   [Homework 3](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_3.ipynb) | 2/10/26   |
+|   [Homework 4](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_4.ipynb) | 2/17/26  |
+|   [Homework 5](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_5.ipynb) | 2/24/26  |
+|   [Homework 6](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_6.ipynb) | 3/24/26  |
+|   [Homework 7](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_7.ipynb) | 3/31/26  |
+|   [Homework 8](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_8.ipynb) | 4/7/26   |
+|   [Homework 9](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_9.ipynb) | 4/14/26  |
+| [Homework 10](https://github.com/jnear/cs3120-secure-computation/blob/main/homework/CS3120_HW_10.ipynb) | 4/21/26  |
 |                                                                                       Project proposals | 4/18/26  |
 |                                                              Final project writeup/video/implementation | 5/4/26   |
 
