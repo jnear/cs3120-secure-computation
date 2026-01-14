@@ -82,19 +82,19 @@ Please **do not** buy any books for this course. All required reference material
 
 We will use the following textbooks for this course:
 
-- [Programming MPC](https://jnear.github.io/programming-mpc)  
+- [1] [Programming MPC](https://jnear.github.io/programming-mpc)  
   Joseph P. Near
 
-- [Pragmatic MPC](https://securecomputation.org/)  
+- [2] [Pragmatic MPC](https://securecomputation.org/)  
   David Evans, Vladimir Kolesnikov and Mike Rosulek
 
-- [The Joy of Cryptography](https://joyofcryptography.com/pdf/book.pdf)  
+- [3] [The Joy of Cryptography](https://joyofcryptography.com/pdf/book.pdf)  
   Mike Rosulek
 
-- [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/) ([PDF available here](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf))  
+- [4] [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/) ([PDF available here](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf))  
    Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder 
 
-- Zero Knowledge Proofs: An Illustrated Primer  
+- [5] Zero Knowledge Proofs: An Illustrated Primer  
   Matthew Green
   - [Part 1](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
   - [Part 2](https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/)
@@ -279,24 +279,24 @@ Homework dates:
 
 Schedule of topics:
 
-| Week of... | Topics                                                                  | Reference                |
-|-----------:|-------------------------------------------------------------------------|--------------------------|
-|    1/12/26 | Intro to distributed computation, additive secret sharing (no exercise) | PMP Ch. 1, 2; PMPC Ch. 1 |
-|    1/19/26 | Adversaries, threat models, and security proofs (no class Monday)       | PMP Ch. 3; PMPC Ch. 2    |
-|    1/26/26 | Multiplication triples and arithmetic MPC                               | PMP Ch. 4; PMPC Ch. 3    |
-|     2/2/26 | Numeric representations; Oblivious Transfer                             | PMP Ch. 5, 6; PMPC Ch. 3 |
-|     2/9/26 | Generating multiplication triples; GMW protocol                         | PMP Ch. 6, 7; PMPC Ch. 3 |
-|    2/16/26 | Garbled circuits protocol (no class Monday)                             | PMP Ch. 8; PMPC Ch. 3    |
-|    2/23/26 | Shamir secret sharing; BGW protocol                                     | PMP Ch. 9; PMPC Ch. 3    |
-|     3/2/26 | *Intermission*. Review (exam Friday; no exercise)                       | None                     |
-|     3/9/26 | Spring break (no class)                                                 | None                     |
-|    3/16/26 | Partially homomorphic cryptosystems: Paillier and El Gamal              | TBA                      |
-|    3/23/26 | Fully homomorphic encryption                                            | TBA                      |
-|    3/30/26 | Zero-knowledge proof                                                    | PMPC Ch. 6               |
-|     4/6/26 | Distributed ledgers and blockchains                                     | BCT Ch. 1                |
-|    4/13/26 | Bitcoin & its challenges                                                | BCT Ch. 2                |
-|    4/20/26 | Blockchain applications: smart contracts, filesystems, etc              | BCT                      |
-|    4/27/26 | Open challenges; review                                                 |                          |
+| Week of... | Topics                                                                  | Reference               |
+|-----------:|-------------------------------------------------------------------------|-------------------------|
+|    1/12/26 | Intro to distributed computation, additive secret sharing (no exercise) | [1] Ch. 1, 2; [2] Ch. 1 |
+|    1/19/26 | Adversaries, threat models, and security proofs (no class Monday)       | [1] Ch. 3; [2] Ch. 2    |
+|    1/26/26 | Multiplication triples and arithmetic MPC                               | [1] Ch. 4; [2] Ch. 3    |
+|     2/2/26 | Numeric representations; Oblivious Transfer                             | [1] Ch. 5, 6; [2] Ch. 3 |
+|     2/9/26 | Generating multiplication triples; GMW protocol                         | [1] Ch. 6, 7; [2] Ch. 3 |
+|    2/16/26 | Garbled circuits protocol (no class Monday)                             | [1] Ch. 8; [2] Ch. 3    |
+|    2/23/26 | Shamir secret sharing; BGW protocol                                     | [1] Ch. 9; [2] Ch. 3    |
+|     3/2/26 | *Intermission*. Review (exam Friday; no exercise)                       | None                    |
+|     3/9/26 | Spring break (no class)                                                 | None                    |
+|    3/16/26 | Partially homomorphic cryptosystems: Paillier and El Gamal              | TBA                     |
+|    3/23/26 | Fully homomorphic encryption                                            | TBA                     |
+|    3/30/26 | Zero-knowledge proof                                                    | [2] Ch. 6               |
+|     4/6/26 | Distributed ledgers and blockchains                                     | [4] Ch. 1               |
+|    4/13/26 | Bitcoin & its challenges                                                | [4] Ch. 2               |
+|    4/20/26 | Blockchain applications: smart contracts, filesystems, etc              | [4]                     |
+|    4/27/26 | Open challenges; review                                                 |                         |
 
 
 # Accommodations
