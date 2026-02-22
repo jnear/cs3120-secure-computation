@@ -1,4 +1,4 @@
-# Exam 1 Topic List (Fall 2023)
+# Exam 1 Topic List (Fall 2026)
 
 ## Models of Secure Computation
 
@@ -39,16 +39,19 @@
 ## Specific-Purpose Protocols
 
 - Summation (via secret sharing)
-- Degree reduction (for Shamir secret sharing)
+- Multiplication of additive shares (via multiplication triples)
+- Generating binary multiplication triples with OT
+- Generating arithmetic multiplication triples with OT
 - Oblivious transfer (OT)
+- GRR multiplication (for Shamir secret sharing)
 
 ## Circuit-Based MPC Protocols
 
 - Circuit definitions
   - Binary circuits
   - Arithmetic circuits
-  - Strengths and weaknesses of each
-- BGW protocol (arithmetic circuits, `n` parties; Shamir secret sharing + degree reduction)
+- Multiplication triple protocol (binary or arithmetic circuits; 2 or n parties; additive secret sharing + multiplication triples)
 - GMW protocol (binary circuits, 2 parties; additive secret sharing + OT)
 - Yao's Garbled Circuit protocol (binary circuits, 2 parties; wire labels + garbled tables)
+- BGW protocol (arithmetic circuits, `n` parties; Shamir secret sharing + degree reduction)
 - Strengths and weaknesses of each
