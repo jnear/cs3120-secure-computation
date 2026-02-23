@@ -1,5 +1,14 @@
 # Exam 1 Topic List (Fall 2026)
 
+## Format
+
+- Open notes: bring as much printed material as you want
+- Closed computers / phones / everything else
+- Should take only 30-40 minutes
+- If you successfully completed the homework assignments, the questions should be easy
+- Multiple choice and short answer (no coding or writing proofs)
+- Liberal partial credit applied - if unsure, explain your reasoning (even for multiple-choice questions)
+
 ## Models of Secure Computation
 
 - Outsourced computation
