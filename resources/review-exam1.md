@@ -23,6 +23,13 @@
 
 ## Defining Security
 
+- Threat models
+  - Type of adversary
+    - Semi-honest
+    - Malicious
+  - Number of corrupted parties
+    - Honest majority
+    - Dishonest majority (n-1)
 - Trusted third party
 - Ideal functionality
 - Real/Ideal paradigm
