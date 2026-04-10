@@ -39,15 +39,23 @@ Graduate students (and undergraduates taking the course for graduate credit) wil
 
 ## Project Ideas
 
-You're welcome to work on any project interesting to you, as long as it's related to the concepts we have covered in class. My suggestion would be to implement one of the techniques we discussed in class, but did not implement in an exercise or homework assignment. Suggested examples include:
+You're welcome to work on any project interesting to you, as long as it's related to the concepts we have covered in class. My suggestion would be to implement one of the techniques we discussed in class, but did not implement in an exercise or homework assignment. Some examples include:
 
-- Yao's garbled circuits protocol
-- MPC protocol for calculating variance without revealing the mean
-- Circuit for calculating variance without revealing the mean (with BGW or FHE)
-- Bootstrapping circuit for FHE (very challenging)
-- Implementation of non-interactive ZK protocol for graph coloring
-- Circuits to check validity of electronic votes (see the voting protocol from our homework)
-- Implementation of one of the case studies from our homework
-- Cryptocurrency implementation (validation of blockchain; validation of transactions; coin-based transactions)
-- Simulation of distributed cryptocurrency system (broadcasting transactions; mining; broadcasting new blocks)
-
+- MPC-based projects
+  - Fixed-point arithmetic with multiplication and reciprocal using binary MPC (GMW or multiplication triples)
+  - General-purpose encrypted database or secret-shared Pandas-style dataframes with queries using MPC
+  - Secret-shared matrices (e.g. Numpy arrays) with matrix operations using MPC
+  - Simple machine learning with MPC: e.g. linear or logistic regression inference, tree-based model inference, or gradient descent
+  - Implementation of Yao's garbled circuits protocol
+- FHE-based projects
+  - Robust implementation of FV with large `q` and realistic parameters
+  - Implementation of another scheme (BGV, CKKS)
+  - Applications of FHE (e.g. drawn from the MPC section)
+  - Bootstrapping circuit for FHE (very challenging)
+- Zero-knowledge proof projects
+  - Implementation of non-interactive ZK protocol for graph coloring
+  - Implementation of MPC-in-the-head for ZK proofs about circuits
+  - Circuits to check validity of electronic votes (e.g. the voting protocol from our homework)
+- Blockchain-based projects
+  - Cryptocurrency implementation (validation of blockchain; validation of transactions; coin-based transactions)
+  - Simulation of distributed cryptocurrency system (broadcasting transactions; mining; broadcasting new blocks)
