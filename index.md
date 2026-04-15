@@ -99,6 +99,9 @@ We will use the following textbooks for this course:
   - [Part 1](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
   - [Part 2](https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/)
 
+- [6] [learn me a bitcoin](https://learnmeabitcoin.com/)  
+  Greg Walker
+
 In addition to these, we will reference a number of academic papers
 throughout the semester.
 
