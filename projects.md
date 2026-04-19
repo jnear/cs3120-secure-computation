@@ -4,13 +4,13 @@
 
 ### Requirements
 
-The goal of the final project is for you to build a complete system that accomplishes a realistic task using applied cryptography. Final projects will be completed in groups of 1-3. The deliverables for the project will be as follows:
+The goal of the final project is for you to build a complete system that accomplishes a realistic task using applied cryptography. Final projects will be completed in groups of 1-3. Each group member should do work roughly equivalent to **1 homework assignment** (i.e. the final project should not take you significantly longer than a single weekly homework assignment). The deliverables for the project will be as follows:
 
 - A *project proposal* of 1 paragraph, describing:
   - Who is in your group
   - What problem you're trying to solve
-  - A brief description of the approach you plan to use (e.g. what data; what algorithms)
-- A *project writeup* of 1-3 pages, containing:
+  - A brief description of the approach you plan to use (e.g. what protocols or approaches)
+- A *project writeup* (README) of 1-2 pages, containing:
   - A problem statement
   - A technical description of your solution, with emphasis on anything that makes your solution unique; your description should be sufficient to enable the reader to *reproduce your implementation*
   - A description of the results - if you've evaluated your implementation on real data, describe how well it works
@@ -35,7 +35,7 @@ The final project is worth 10% of your final grade. The schedule for final proje
 
 ### Graduate Students
 
-Graduate students (and undergraduates taking the course for graduate credit) will be expected to develop a more ambitious final project (a more sophisticated algorithm or approach; a larger or more challenging dataset; or a more detailed analysis of experimental results).
+Graduate students (and undergraduates taking the course for graduate credit) will be expected to develop a more ambitious final project (e.g. a more sophisticated algorithm or approach or a larger or more challenging dataset).
 
 ## Project Ideas
 
