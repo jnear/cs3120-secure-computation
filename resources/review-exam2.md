@@ -1,4 +1,4 @@
-# Exam 2 Topic List (Fall 2023)
+# Exam 2 Topic List (Spring 2026)
 
 ## Partially Homomorphic Encryption
 
@@ -12,12 +12,12 @@
 - Basic operations
 - Homomorphisms (both additive and multiplicative)
 - Limitations (noise compounds with operations, especially multiplication)
-- Parameters (tradeoff between ciphertext size and noise capacity)
+- Parameters (tradeoff between ciphertext size, noise capacity, and security)
 
 ## Zero Knowledge Proofs
 
 - Definition and framework
-- Structure (commit; challenge; response; check)
+- Structure (commit; challenge; response; verify)
 - Parameter setting (making it unlikely the prover can cheat)
 - MPC-in-the-head for ZK on circuits
 - Fiat-Shamir transform for non-interactivity
@@ -47,7 +47,7 @@
 
 - Proof of stake
   - Peercoin: special "coinstake" transactions make mining less difficult; staking coins resets their "age"
-  - Ethereum: staking coins (~$20k) allows you to become a validator and get rewards; if you misbehave as a validator, you lose your stake
+  - Ethereum: staking coins (~$20k) allows you to become a validator and get rewards; if you misbehave as a validator, you get punished
 - FileCoin: mining = storing other people's files on your HD
 - Smart Contracts
   - Smart contract is a program stored on the blockchain
@@ -73,9 +73,9 @@
 ## Misc Topics
 
 - Secure aggregation: lightweight MPC protocols for federated machine learning (basically high-dimensional summation)
-- Holistic privacy
-  - Input privacy: protocol is secure wrt ideal functionality
-  - Ouput privacy: ideal functionality doesn't leak too much about inputs
+- Security vs privacy
+  - Security (sometimes called input privacy): protocol is secure wrt ideal functionality
+  - Privacy (sometimes called output privacy): ideal functionality doesn't leak too much about inputs
   - Becoming more common: combine crypto (input privacy) with differential privacy (output privacy)
 - Secure enclaves / trusted execution environments (TEEs)
   - Special CPUs with built-in private keys
